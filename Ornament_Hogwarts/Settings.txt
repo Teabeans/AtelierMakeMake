@@ -1,7 +1,7 @@
 PLS 6.75 (29:19)
 Engrave: (1) 100 pow : 100 spd
 Etch:    (1)  40 pow : 100 spd
-Cut:     (3) 100 pow :  20 spd
+Cut:     (3) 100 pow :  20 spd @ 0.195" (Integra Ultraply)
 
 VLS 3.5 (??:??)
 Engrave: (1)   ? pow :   ? spd
