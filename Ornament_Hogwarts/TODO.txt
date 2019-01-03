@@ -1,0 +1,5 @@
+2019.01.03
+* Adjust banner width, make asymmetric
+* Add backing/surround
+* Remove sharp points on banner
+* Add elevation change on shield upper corners
