@@ -1,0 +1,9 @@
+PLS 6.75
+Engrave: (1) 100 pow :  75 spd
+Etch:    (1)  25 pow : 100 spd
+Cut:     (3) 100 pow :  20 spd
+
+VLS 3.5
+Engrave: (1) 100 pow :  75 spd
+Etch:    (1)  25 pow : 100 spd
+Cut:     (3) 100 pow :  20 spd
