@@ -1,9 +1,9 @@
-PLS 6.75
+PLS 6.75 (29:19)
 Engrave: (1) 100 pow : 100 spd
-Etch:    (1)  30 pow : 100 spd
+Etch:    (1)  40 pow : 100 spd
 Cut:     (3) 100 pow :  20 spd
 
-VLS 3.5
+VLS 3.5 (??:??)
 Engrave: (1)   ? pow :   ? spd
 Etch:    (1)   ? pow :   ? spd
 Cut:     (3)   ? pow :   ? spd
