@@ -3,7 +3,7 @@ Engrave: (1)   ? pow :   ? spd
 Etch:    (1)   ? pow :   ? spd
 Cut:     (3)   ? pow :   ? spd
 
-VLS 3.5 (??:??)
+VLS 3.5 (38:21)
 Engrave: (-)  -- pow :  -- spd
 Etch:    (1)  50 pow : 100 spd
 Cut:     (3) 100 pow :  20 spd
