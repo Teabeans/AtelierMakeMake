@@ -1,0 +1,10 @@
+PLS 6.75 (--:--)
+Engrave: (1) 100 pow :  50 spd
+Etch:    (1)  -- pow :  -- spd
+Cut:     (3) 100 pow :  20 spd @ 0.195" (Integra Ultraply)
+         (5) 100 pow :  20 spd @ 0.230" (Birch Ply)
+
+VLS 3.5 (??:??)
+Engrave: (1)   ? pow :   ? spd
+Etch:    (1)   ? pow :   ? spd
+Cut:     (3)   ? pow :   ? spd
