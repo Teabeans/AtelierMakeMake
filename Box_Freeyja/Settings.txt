@@ -1,1 +1,9 @@
-asdf
+PLS 6.75 (--:--)
+Engrave: N/A
+Etch:    N/A
+Cut:     (5) 100 pow :  18 spd @ 0.23" (Russian Birch)
+
+VLS 3.5 (??:??)
+Engrave: (1)   ? pow :   ? spd
+Etch:    (1)   ? pow :   ? spd
+Cut:     (3)   ? pow :   ? spd
