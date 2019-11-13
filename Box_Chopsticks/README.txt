@@ -14,3 +14,6 @@ Select + 2 pixel expansion
 For cut:
 (2) If chamfered: 100% power, 10% speed
 (3) 100% power, 10% speed
+
+For etch:
+35% power, 100% speed
